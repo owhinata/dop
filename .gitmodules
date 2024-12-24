@@ -1,0 +1,3 @@
+[submodule "poc_c/klib"]
+	path = poc_c/klib
+	url = https://github.com/attractivechaos/klib.git
